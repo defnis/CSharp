@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\bin\Debug\net8.0\ObraSocial.exe
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\bin\Debug\net8.0\ObraSocial.deps.json
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\bin\Debug\net8.0\ObraSocial.runtimeconfig.json
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\bin\Debug\net8.0\ObraSocial.dll
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\bin\Debug\net8.0\ObraSocial.pdb
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\obj\Debug\net8.0\ObraSocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\obj\Debug\net8.0\ObraSocial.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\obj\Debug\net8.0\ObraSocial.AssemblyInfo.cs
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\obj\Debug\net8.0\ObraSocial.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\obj\Debug\net8.0\ObraSocial.dll
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\obj\Debug\net8.0\refint\ObraSocial.dll
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\obj\Debug\net8.0\ObraSocial.pdb
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\obj\Debug\net8.0\ObraSocial.genruntimeconfig.cache
+C:\Users\josew\source\repos\ObraSocial\ObraSocial\obj\Debug\net8.0\ref\ObraSocial.dll

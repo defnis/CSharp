@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\Case2\Case2\bin\Debug\net8.0\Case2.exe
+C:\Users\josew\source\repos\Case2\Case2\bin\Debug\net8.0\Case2.deps.json
+C:\Users\josew\source\repos\Case2\Case2\bin\Debug\net8.0\Case2.runtimeconfig.json
+C:\Users\josew\source\repos\Case2\Case2\bin\Debug\net8.0\Case2.dll
+C:\Users\josew\source\repos\Case2\Case2\bin\Debug\net8.0\Case2.pdb
+C:\Users\josew\source\repos\Case2\Case2\obj\Debug\net8.0\Case2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\Case2\Case2\obj\Debug\net8.0\Case2.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\Case2\Case2\obj\Debug\net8.0\Case2.AssemblyInfo.cs
+C:\Users\josew\source\repos\Case2\Case2\obj\Debug\net8.0\Case2.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\Case2\Case2\obj\Debug\net8.0\Case2.dll
+C:\Users\josew\source\repos\Case2\Case2\obj\Debug\net8.0\refint\Case2.dll
+C:\Users\josew\source\repos\Case2\Case2\obj\Debug\net8.0\Case2.pdb
+C:\Users\josew\source\repos\Case2\Case2\obj\Debug\net8.0\Case2.genruntimeconfig.cache
+C:\Users\josew\source\repos\Case2\Case2\obj\Debug\net8.0\ref\Case2.dll

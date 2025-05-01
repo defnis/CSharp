@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\bin\Debug\net8.0\CompetidorRally.exe
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\bin\Debug\net8.0\CompetidorRally.deps.json
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\bin\Debug\net8.0\CompetidorRally.runtimeconfig.json
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\bin\Debug\net8.0\CompetidorRally.dll
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\bin\Debug\net8.0\CompetidorRally.pdb
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\obj\Debug\net8.0\CompetidorRally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\obj\Debug\net8.0\CompetidorRally.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\obj\Debug\net8.0\CompetidorRally.AssemblyInfo.cs
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\obj\Debug\net8.0\CompetidorRally.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\obj\Debug\net8.0\CompetidorRally.dll
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\obj\Debug\net8.0\refint\CompetidorRally.dll
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\obj\Debug\net8.0\CompetidorRally.pdb
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\obj\Debug\net8.0\CompetidorRally.genruntimeconfig.cache
+C:\Users\josew\source\repos\CompetidorRally\CompetidorRally\obj\Debug\net8.0\ref\CompetidorRally.dll

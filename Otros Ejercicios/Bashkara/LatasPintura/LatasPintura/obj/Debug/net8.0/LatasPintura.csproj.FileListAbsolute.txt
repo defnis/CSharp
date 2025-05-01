@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\bin\Debug\net8.0\LatasPintura.exe
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\bin\Debug\net8.0\LatasPintura.deps.json
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\bin\Debug\net8.0\LatasPintura.runtimeconfig.json
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\bin\Debug\net8.0\LatasPintura.dll
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\bin\Debug\net8.0\LatasPintura.pdb
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\obj\Debug\net8.0\LatasPintura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\obj\Debug\net8.0\LatasPintura.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\obj\Debug\net8.0\LatasPintura.AssemblyInfo.cs
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\obj\Debug\net8.0\LatasPintura.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\obj\Debug\net8.0\LatasPintura.dll
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\obj\Debug\net8.0\refint\LatasPintura.dll
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\obj\Debug\net8.0\LatasPintura.pdb
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\obj\Debug\net8.0\LatasPintura.genruntimeconfig.cache
+C:\Users\josew\source\repos\LatasPintura\LatasPintura\obj\Debug\net8.0\ref\LatasPintura.dll

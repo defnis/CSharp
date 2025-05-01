@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\bin\Debug\net8.0\Secuencia5N.exe
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\bin\Debug\net8.0\Secuencia5N.deps.json
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\bin\Debug\net8.0\Secuencia5N.runtimeconfig.json
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\bin\Debug\net8.0\Secuencia5N.dll
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\bin\Debug\net8.0\Secuencia5N.pdb
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\obj\Debug\net8.0\Secuencia5N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\obj\Debug\net8.0\Secuencia5N.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\obj\Debug\net8.0\Secuencia5N.AssemblyInfo.cs
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\obj\Debug\net8.0\Secuencia5N.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\obj\Debug\net8.0\Secuencia5N.dll
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\obj\Debug\net8.0\refint\Secuencia5N.dll
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\obj\Debug\net8.0\Secuencia5N.pdb
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\obj\Debug\net8.0\Secuencia5N.genruntimeconfig.cache
+C:\Users\josew\source\repos\Secuencia5N\Secuencia5N\obj\Debug\net8.0\ref\Secuencia5N.dll

@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\bin\Debug\net8.0\PasajeCrucero.exe
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\bin\Debug\net8.0\PasajeCrucero.deps.json
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\bin\Debug\net8.0\PasajeCrucero.runtimeconfig.json
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\bin\Debug\net8.0\PasajeCrucero.dll
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\bin\Debug\net8.0\PasajeCrucero.pdb
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\obj\Debug\net8.0\PasajeCrucero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\obj\Debug\net8.0\PasajeCrucero.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\obj\Debug\net8.0\PasajeCrucero.AssemblyInfo.cs
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\obj\Debug\net8.0\PasajeCrucero.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\obj\Debug\net8.0\PasajeCrucero.dll
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\obj\Debug\net8.0\refint\PasajeCrucero.dll
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\obj\Debug\net8.0\PasajeCrucero.pdb
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\obj\Debug\net8.0\PasajeCrucero.genruntimeconfig.cache
+C:\Users\josew\source\repos\PasajeCrucero\PasajeCrucero\obj\Debug\net8.0\ref\PasajeCrucero.dll

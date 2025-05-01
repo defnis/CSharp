@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\bin\Debug\net8.0\MultiMayMen.exe
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\bin\Debug\net8.0\MultiMayMen.deps.json
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\bin\Debug\net8.0\MultiMayMen.runtimeconfig.json
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\bin\Debug\net8.0\MultiMayMen.dll
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\bin\Debug\net8.0\MultiMayMen.pdb
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\obj\Debug\net8.0\MultiMayMen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\obj\Debug\net8.0\MultiMayMen.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\obj\Debug\net8.0\MultiMayMen.AssemblyInfo.cs
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\obj\Debug\net8.0\MultiMayMen.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\obj\Debug\net8.0\MultiMayMen.dll
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\obj\Debug\net8.0\refint\MultiMayMen.dll
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\obj\Debug\net8.0\MultiMayMen.pdb
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\obj\Debug\net8.0\MultiMayMen.genruntimeconfig.cache
+C:\Users\josew\source\repos\MultiMayMen\MultiMayMen\obj\Debug\net8.0\ref\MultiMayMen.dll

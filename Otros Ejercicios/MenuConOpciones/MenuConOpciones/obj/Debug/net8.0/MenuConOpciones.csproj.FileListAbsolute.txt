@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\bin\Debug\net8.0\MenuConOpciones.exe
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\bin\Debug\net8.0\MenuConOpciones.deps.json
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\bin\Debug\net8.0\MenuConOpciones.runtimeconfig.json
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\bin\Debug\net8.0\MenuConOpciones.dll
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\bin\Debug\net8.0\MenuConOpciones.pdb
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\obj\Debug\net8.0\MenuConOpciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\obj\Debug\net8.0\MenuConOpciones.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\obj\Debug\net8.0\MenuConOpciones.AssemblyInfo.cs
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\obj\Debug\net8.0\MenuConOpciones.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\obj\Debug\net8.0\MenuConOpciones.dll
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\obj\Debug\net8.0\refint\MenuConOpciones.dll
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\obj\Debug\net8.0\MenuConOpciones.pdb
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\obj\Debug\net8.0\MenuConOpciones.genruntimeconfig.cache
+C:\Users\josew\source\repos\MenuConOpciones\MenuConOpciones\obj\Debug\net8.0\ref\MenuConOpciones.dll

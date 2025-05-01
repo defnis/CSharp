@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\bin\Debug\net8.0\SumaDivisores.exe
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\bin\Debug\net8.0\SumaDivisores.deps.json
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\bin\Debug\net8.0\SumaDivisores.runtimeconfig.json
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\bin\Debug\net8.0\SumaDivisores.dll
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\bin\Debug\net8.0\SumaDivisores.pdb
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\obj\Debug\net8.0\SumaDivisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\obj\Debug\net8.0\SumaDivisores.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\obj\Debug\net8.0\SumaDivisores.AssemblyInfo.cs
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\obj\Debug\net8.0\SumaDivisores.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\obj\Debug\net8.0\SumaDivisores.dll
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\obj\Debug\net8.0\refint\SumaDivisores.dll
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\obj\Debug\net8.0\SumaDivisores.pdb
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\obj\Debug\net8.0\SumaDivisores.genruntimeconfig.cache
+C:\Users\josew\source\repos\SumaDivisores\SumaDivisores\obj\Debug\net8.0\ref\SumaDivisores.dll

@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\bin\Debug\net8.0\SumaNNumeros.exe
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\bin\Debug\net8.0\SumaNNumeros.deps.json
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\bin\Debug\net8.0\SumaNNumeros.runtimeconfig.json
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\bin\Debug\net8.0\SumaNNumeros.dll
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\bin\Debug\net8.0\SumaNNumeros.pdb
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\obj\Debug\net8.0\SumaNNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\obj\Debug\net8.0\SumaNNumeros.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\obj\Debug\net8.0\SumaNNumeros.AssemblyInfo.cs
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\obj\Debug\net8.0\SumaNNumeros.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\obj\Debug\net8.0\SumaNNumeros.dll
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\obj\Debug\net8.0\refint\SumaNNumeros.dll
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\obj\Debug\net8.0\SumaNNumeros.pdb
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\obj\Debug\net8.0\SumaNNumeros.genruntimeconfig.cache
+C:\Users\josew\source\repos\SumaNNumeros\SumaNNumeros\obj\Debug\net8.0\ref\SumaNNumeros.dll

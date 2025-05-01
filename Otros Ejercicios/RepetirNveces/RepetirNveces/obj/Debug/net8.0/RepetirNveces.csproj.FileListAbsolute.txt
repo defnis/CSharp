@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\bin\Debug\net8.0\RepetirNveces.exe
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\bin\Debug\net8.0\RepetirNveces.deps.json
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\bin\Debug\net8.0\RepetirNveces.runtimeconfig.json
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\bin\Debug\net8.0\RepetirNveces.dll
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\bin\Debug\net8.0\RepetirNveces.pdb
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\obj\Debug\net8.0\RepetirNveces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\obj\Debug\net8.0\RepetirNveces.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\obj\Debug\net8.0\RepetirNveces.AssemblyInfo.cs
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\obj\Debug\net8.0\RepetirNveces.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\obj\Debug\net8.0\RepetirNveces.dll
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\obj\Debug\net8.0\refint\RepetirNveces.dll
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\obj\Debug\net8.0\RepetirNveces.pdb
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\obj\Debug\net8.0\RepetirNveces.genruntimeconfig.cache
+C:\Users\josew\source\repos\RepetirNveces\RepetirNveces\obj\Debug\net8.0\ref\RepetirNveces.dll

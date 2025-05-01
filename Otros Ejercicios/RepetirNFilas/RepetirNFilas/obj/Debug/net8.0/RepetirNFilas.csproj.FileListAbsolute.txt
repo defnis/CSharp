@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\bin\Debug\net8.0\RepetirNFilas.exe
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\bin\Debug\net8.0\RepetirNFilas.deps.json
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\bin\Debug\net8.0\RepetirNFilas.runtimeconfig.json
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\bin\Debug\net8.0\RepetirNFilas.dll
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\bin\Debug\net8.0\RepetirNFilas.pdb
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\obj\Debug\net8.0\RepetirNFilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\obj\Debug\net8.0\RepetirNFilas.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\obj\Debug\net8.0\RepetirNFilas.AssemblyInfo.cs
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\obj\Debug\net8.0\RepetirNFilas.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\obj\Debug\net8.0\RepetirNFilas.dll
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\obj\Debug\net8.0\refint\RepetirNFilas.dll
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\obj\Debug\net8.0\RepetirNFilas.pdb
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\obj\Debug\net8.0\RepetirNFilas.genruntimeconfig.cache
+C:\Users\josew\source\repos\RepetirNFilas\RepetirNFilas\obj\Debug\net8.0\ref\RepetirNFilas.dll

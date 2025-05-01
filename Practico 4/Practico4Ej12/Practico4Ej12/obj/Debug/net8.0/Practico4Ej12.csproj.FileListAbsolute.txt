@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\bin\Debug\net8.0\Practico4Ej12.exe
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\bin\Debug\net8.0\Practico4Ej12.deps.json
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\bin\Debug\net8.0\Practico4Ej12.runtimeconfig.json
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\bin\Debug\net8.0\Practico4Ej12.dll
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\bin\Debug\net8.0\Practico4Ej12.pdb
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\obj\Debug\net8.0\Practico4Ej12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\obj\Debug\net8.0\Practico4Ej12.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\obj\Debug\net8.0\Practico4Ej12.AssemblyInfo.cs
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\obj\Debug\net8.0\Practico4Ej12.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\obj\Debug\net8.0\Practico4Ej12.dll
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\obj\Debug\net8.0\refint\Practico4Ej12.dll
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\obj\Debug\net8.0\Practico4Ej12.pdb
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\obj\Debug\net8.0\Practico4Ej12.genruntimeconfig.cache
+C:\Users\josew\source\repos\Practico4Ej12\Practico4Ej12\obj\Debug\net8.0\ref\Practico4Ej12.dll

@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\bin\Debug\net8.0\NumerosALetras.exe
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\bin\Debug\net8.0\NumerosALetras.deps.json
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\bin\Debug\net8.0\NumerosALetras.runtimeconfig.json
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\bin\Debug\net8.0\NumerosALetras.dll
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\bin\Debug\net8.0\NumerosALetras.pdb
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\obj\Debug\net8.0\NumerosALetras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\obj\Debug\net8.0\NumerosALetras.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\obj\Debug\net8.0\NumerosALetras.AssemblyInfo.cs
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\obj\Debug\net8.0\NumerosALetras.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\obj\Debug\net8.0\NumerosALetras.dll
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\obj\Debug\net8.0\refint\NumerosALetras.dll
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\obj\Debug\net8.0\NumerosALetras.pdb
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\obj\Debug\net8.0\NumerosALetras.genruntimeconfig.cache
+C:\Users\josew\source\repos\NumerosALetras\NumerosALetras\obj\Debug\net8.0\ref\NumerosALetras.dll

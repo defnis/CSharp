@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\bin\Debug\net8.0\CicloAnidado.exe
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\bin\Debug\net8.0\CicloAnidado.deps.json
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\bin\Debug\net8.0\CicloAnidado.runtimeconfig.json
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\bin\Debug\net8.0\CicloAnidado.dll
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\bin\Debug\net8.0\CicloAnidado.pdb
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\obj\Debug\net8.0\CicloAnidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\obj\Debug\net8.0\CicloAnidado.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\obj\Debug\net8.0\CicloAnidado.AssemblyInfo.cs
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\obj\Debug\net8.0\CicloAnidado.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\obj\Debug\net8.0\CicloAnidado.dll
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\obj\Debug\net8.0\refint\CicloAnidado.dll
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\obj\Debug\net8.0\CicloAnidado.pdb
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\obj\Debug\net8.0\CicloAnidado.genruntimeconfig.cache
+C:\Users\josew\source\repos\CicloAnidado\CicloAnidado\obj\Debug\net8.0\ref\CicloAnidado.dll

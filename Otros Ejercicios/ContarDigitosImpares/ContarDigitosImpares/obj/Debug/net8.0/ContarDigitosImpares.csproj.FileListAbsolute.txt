@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\bin\Debug\net8.0\ContarDigitosImpares.exe
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\bin\Debug\net8.0\ContarDigitosImpares.deps.json
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\bin\Debug\net8.0\ContarDigitosImpares.runtimeconfig.json
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\bin\Debug\net8.0\ContarDigitosImpares.dll
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\bin\Debug\net8.0\ContarDigitosImpares.pdb
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\obj\Debug\net8.0\ContarDigitosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\obj\Debug\net8.0\ContarDigitosImpares.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\obj\Debug\net8.0\ContarDigitosImpares.AssemblyInfo.cs
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\obj\Debug\net8.0\ContarDigitosImpares.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\obj\Debug\net8.0\ContarDigitosImpares.dll
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\obj\Debug\net8.0\refint\ContarDigitosImpares.dll
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\obj\Debug\net8.0\ContarDigitosImpares.pdb
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\obj\Debug\net8.0\ContarDigitosImpares.genruntimeconfig.cache
+C:\Users\josew\source\repos\ContarDigitosImpares\ContarDigitosImpares\obj\Debug\net8.0\ref\ContarDigitosImpares.dll

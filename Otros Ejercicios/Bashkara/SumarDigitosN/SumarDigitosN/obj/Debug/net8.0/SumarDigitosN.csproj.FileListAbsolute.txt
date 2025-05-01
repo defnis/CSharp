@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\bin\Debug\net8.0\SumarDigitosN.exe
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\bin\Debug\net8.0\SumarDigitosN.deps.json
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\bin\Debug\net8.0\SumarDigitosN.runtimeconfig.json
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\bin\Debug\net8.0\SumarDigitosN.dll
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\bin\Debug\net8.0\SumarDigitosN.pdb
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\obj\Debug\net8.0\SumarDigitosN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\obj\Debug\net8.0\SumarDigitosN.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\obj\Debug\net8.0\SumarDigitosN.AssemblyInfo.cs
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\obj\Debug\net8.0\SumarDigitosN.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\obj\Debug\net8.0\SumarDigitosN.dll
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\obj\Debug\net8.0\refint\SumarDigitosN.dll
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\obj\Debug\net8.0\SumarDigitosN.pdb
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\obj\Debug\net8.0\SumarDigitosN.genruntimeconfig.cache
+C:\Users\josew\source\repos\SumarDigitosN\SumarDigitosN\obj\Debug\net8.0\ref\SumarDigitosN.dll

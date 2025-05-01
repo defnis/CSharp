@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\Bashkara\Bashkara\bin\Debug\net8.0\Bashkara.exe
+C:\Users\josew\source\repos\Bashkara\Bashkara\bin\Debug\net8.0\Bashkara.deps.json
+C:\Users\josew\source\repos\Bashkara\Bashkara\bin\Debug\net8.0\Bashkara.runtimeconfig.json
+C:\Users\josew\source\repos\Bashkara\Bashkara\bin\Debug\net8.0\Bashkara.dll
+C:\Users\josew\source\repos\Bashkara\Bashkara\bin\Debug\net8.0\Bashkara.pdb
+C:\Users\josew\source\repos\Bashkara\Bashkara\obj\Debug\net8.0\Bashkara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\Bashkara\Bashkara\obj\Debug\net8.0\Bashkara.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\Bashkara\Bashkara\obj\Debug\net8.0\Bashkara.AssemblyInfo.cs
+C:\Users\josew\source\repos\Bashkara\Bashkara\obj\Debug\net8.0\Bashkara.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\Bashkara\Bashkara\obj\Debug\net8.0\Bashkara.dll
+C:\Users\josew\source\repos\Bashkara\Bashkara\obj\Debug\net8.0\refint\Bashkara.dll
+C:\Users\josew\source\repos\Bashkara\Bashkara\obj\Debug\net8.0\Bashkara.pdb
+C:\Users\josew\source\repos\Bashkara\Bashkara\obj\Debug\net8.0\Bashkara.genruntimeconfig.cache
+C:\Users\josew\source\repos\Bashkara\Bashkara\obj\Debug\net8.0\ref\Bashkara.dll

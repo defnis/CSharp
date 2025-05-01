@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\bin\Debug\net8.0\ValidarSecuencia.exe
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\bin\Debug\net8.0\ValidarSecuencia.deps.json
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\bin\Debug\net8.0\ValidarSecuencia.runtimeconfig.json
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\bin\Debug\net8.0\ValidarSecuencia.dll
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\bin\Debug\net8.0\ValidarSecuencia.pdb
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\obj\Debug\net8.0\ValidarSecuencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\obj\Debug\net8.0\ValidarSecuencia.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\obj\Debug\net8.0\ValidarSecuencia.AssemblyInfo.cs
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\obj\Debug\net8.0\ValidarSecuencia.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\obj\Debug\net8.0\ValidarSecuencia.dll
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\obj\Debug\net8.0\refint\ValidarSecuencia.dll
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\obj\Debug\net8.0\ValidarSecuencia.pdb
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\obj\Debug\net8.0\ValidarSecuencia.genruntimeconfig.cache
+C:\Users\josew\source\repos\ValidarSecuencia\ValidarSecuencia\obj\Debug\net8.0\ref\ValidarSecuencia.dll

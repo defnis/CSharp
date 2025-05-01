@@ -1,0 +1,14 @@
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\bin\Debug\net8.0\Practico5Ej4.exe
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\bin\Debug\net8.0\Practico5Ej4.deps.json
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\bin\Debug\net8.0\Practico5Ej4.runtimeconfig.json
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\bin\Debug\net8.0\Practico5Ej4.dll
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\bin\Debug\net8.0\Practico5Ej4.pdb
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\obj\Debug\net8.0\Practico5Ej4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\obj\Debug\net8.0\Practico5Ej4.AssemblyInfoInputs.cache
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\obj\Debug\net8.0\Practico5Ej4.AssemblyInfo.cs
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\obj\Debug\net8.0\Practico5Ej4.csproj.CoreCompileInputs.cache
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\obj\Debug\net8.0\Practico5Ej4.dll
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\obj\Debug\net8.0\refint\Practico5Ej4.dll
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\obj\Debug\net8.0\Practico5Ej4.pdb
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\obj\Debug\net8.0\Practico5Ej4.genruntimeconfig.cache
+C:\Users\jwaim\source\repos\Practico5Ej4\Practico5Ej4\obj\Debug\net8.0\ref\Practico5Ej4.dll

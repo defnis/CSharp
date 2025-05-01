@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\bin\Debug\net8.0\CaracteresConsecutivos.exe
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\bin\Debug\net8.0\CaracteresConsecutivos.deps.json
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\bin\Debug\net8.0\CaracteresConsecutivos.runtimeconfig.json
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\bin\Debug\net8.0\CaracteresConsecutivos.dll
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\bin\Debug\net8.0\CaracteresConsecutivos.pdb
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\obj\Debug\net8.0\CaracteresConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\obj\Debug\net8.0\CaracteresConsecutivos.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\obj\Debug\net8.0\CaracteresConsecutivos.AssemblyInfo.cs
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\obj\Debug\net8.0\CaracteresConsecutivos.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\obj\Debug\net8.0\CaracteresConsecutivos.dll
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\obj\Debug\net8.0\refint\CaracteresConsecutivos.dll
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\obj\Debug\net8.0\CaracteresConsecutivos.pdb
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\obj\Debug\net8.0\CaracteresConsecutivos.genruntimeconfig.cache
+C:\Users\josew\source\repos\CaracteresConsecutivos\CaracteresConsecutivos\obj\Debug\net8.0\ref\CaracteresConsecutivos.dll

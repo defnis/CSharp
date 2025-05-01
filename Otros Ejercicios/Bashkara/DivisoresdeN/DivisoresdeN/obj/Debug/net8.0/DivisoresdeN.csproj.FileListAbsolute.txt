@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\bin\Debug\net8.0\DivisoresdeN.exe
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\bin\Debug\net8.0\DivisoresdeN.deps.json
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\bin\Debug\net8.0\DivisoresdeN.runtimeconfig.json
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\bin\Debug\net8.0\DivisoresdeN.dll
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\bin\Debug\net8.0\DivisoresdeN.pdb
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\obj\Debug\net8.0\DivisoresdeN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\obj\Debug\net8.0\DivisoresdeN.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\obj\Debug\net8.0\DivisoresdeN.AssemblyInfo.cs
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\obj\Debug\net8.0\DivisoresdeN.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\obj\Debug\net8.0\DivisoresdeN.dll
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\obj\Debug\net8.0\refint\DivisoresdeN.dll
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\obj\Debug\net8.0\DivisoresdeN.pdb
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\obj\Debug\net8.0\DivisoresdeN.genruntimeconfig.cache
+C:\Users\josew\source\repos\DivisoresdeN\DivisoresdeN\obj\Debug\net8.0\ref\DivisoresdeN.dll

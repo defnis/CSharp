@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\bin\Debug\net8.0\MayorDigito.exe
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\bin\Debug\net8.0\MayorDigito.deps.json
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\bin\Debug\net8.0\MayorDigito.runtimeconfig.json
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\bin\Debug\net8.0\MayorDigito.dll
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\bin\Debug\net8.0\MayorDigito.pdb
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\obj\Debug\net8.0\MayorDigito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\obj\Debug\net8.0\MayorDigito.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\obj\Debug\net8.0\MayorDigito.AssemblyInfo.cs
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\obj\Debug\net8.0\MayorDigito.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\obj\Debug\net8.0\MayorDigito.dll
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\obj\Debug\net8.0\refint\MayorDigito.dll
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\obj\Debug\net8.0\MayorDigito.pdb
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\obj\Debug\net8.0\MayorDigito.genruntimeconfig.cache
+C:\Users\josew\source\repos\MayorDigito\MayorDigito\obj\Debug\net8.0\ref\MayorDigito.dll

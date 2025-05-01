@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\bin\Debug\net8.0\PagarEstacionamiento.exe
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\bin\Debug\net8.0\PagarEstacionamiento.deps.json
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\bin\Debug\net8.0\PagarEstacionamiento.runtimeconfig.json
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\bin\Debug\net8.0\PagarEstacionamiento.dll
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\bin\Debug\net8.0\PagarEstacionamiento.pdb
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\obj\Debug\net8.0\PagarEstacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\obj\Debug\net8.0\PagarEstacionamiento.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\obj\Debug\net8.0\PagarEstacionamiento.AssemblyInfo.cs
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\obj\Debug\net8.0\PagarEstacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\obj\Debug\net8.0\PagarEstacionamiento.dll
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\obj\Debug\net8.0\refint\PagarEstacionamiento.dll
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\obj\Debug\net8.0\PagarEstacionamiento.pdb
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\obj\Debug\net8.0\PagarEstacionamiento.genruntimeconfig.cache
+C:\Users\josew\source\repos\PagarEstacionamiento\PagarEstacionamiento\obj\Debug\net8.0\ref\PagarEstacionamiento.dll

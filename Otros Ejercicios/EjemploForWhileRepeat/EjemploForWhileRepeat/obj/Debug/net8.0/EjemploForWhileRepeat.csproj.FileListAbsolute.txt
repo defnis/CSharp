@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\bin\Debug\net8.0\EjemploForWhileRepeat.exe
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\bin\Debug\net8.0\EjemploForWhileRepeat.deps.json
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\bin\Debug\net8.0\EjemploForWhileRepeat.runtimeconfig.json
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\bin\Debug\net8.0\EjemploForWhileRepeat.dll
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\bin\Debug\net8.0\EjemploForWhileRepeat.pdb
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\obj\Debug\net8.0\EjemploForWhileRepeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\obj\Debug\net8.0\EjemploForWhileRepeat.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\obj\Debug\net8.0\EjemploForWhileRepeat.AssemblyInfo.cs
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\obj\Debug\net8.0\EjemploForWhileRepeat.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\obj\Debug\net8.0\EjemploForWhileRepeat.dll
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\obj\Debug\net8.0\refint\EjemploForWhileRepeat.dll
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\obj\Debug\net8.0\EjemploForWhileRepeat.pdb
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\obj\Debug\net8.0\EjemploForWhileRepeat.genruntimeconfig.cache
+C:\Users\josew\source\repos\EjemploForWhileRepeat\EjemploForWhileRepeat\obj\Debug\net8.0\ref\EjemploForWhileRepeat.dll

@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\bin\Debug\net8.0\SecuenciaChar.exe
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\bin\Debug\net8.0\SecuenciaChar.deps.json
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\bin\Debug\net8.0\SecuenciaChar.runtimeconfig.json
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\bin\Debug\net8.0\SecuenciaChar.dll
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\bin\Debug\net8.0\SecuenciaChar.pdb
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\obj\Debug\net8.0\SecuenciaChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\obj\Debug\net8.0\SecuenciaChar.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\obj\Debug\net8.0\SecuenciaChar.AssemblyInfo.cs
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\obj\Debug\net8.0\SecuenciaChar.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\obj\Debug\net8.0\SecuenciaChar.dll
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\obj\Debug\net8.0\refint\SecuenciaChar.dll
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\obj\Debug\net8.0\SecuenciaChar.pdb
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\obj\Debug\net8.0\SecuenciaChar.genruntimeconfig.cache
+C:\Users\josew\source\repos\SecuenciaChar\SecuenciaChar\obj\Debug\net8.0\ref\SecuenciaChar.dll

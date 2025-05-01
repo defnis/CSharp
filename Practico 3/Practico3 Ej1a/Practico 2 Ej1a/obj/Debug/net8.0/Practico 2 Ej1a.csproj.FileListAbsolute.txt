@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\bin\Debug\net8.0\Practico 2 Ej1a.exe
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\bin\Debug\net8.0\Practico 2 Ej1a.deps.json
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\bin\Debug\net8.0\Practico 2 Ej1a.runtimeconfig.json
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\bin\Debug\net8.0\Practico 2 Ej1a.dll
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\bin\Debug\net8.0\Practico 2 Ej1a.pdb
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\obj\Debug\net8.0\Practico 2 Ej1a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\obj\Debug\net8.0\Practico 2 Ej1a.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\obj\Debug\net8.0\Practico 2 Ej1a.AssemblyInfo.cs
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\obj\Debug\net8.0\Practico 2 Ej1a.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\obj\Debug\net8.0\Practico 2 Ej1a.dll
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\obj\Debug\net8.0\refint\Practico 2 Ej1a.dll
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\obj\Debug\net8.0\Practico 2 Ej1a.pdb
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\obj\Debug\net8.0\Practico 2 Ej1a.genruntimeconfig.cache
+C:\Users\josew\source\repos\Practico 2 Ej1a\Practico 2 Ej1a\obj\Debug\net8.0\ref\Practico 2 Ej1a.dll

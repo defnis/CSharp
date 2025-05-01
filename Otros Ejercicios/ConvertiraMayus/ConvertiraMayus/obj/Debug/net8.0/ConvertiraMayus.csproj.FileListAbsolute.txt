@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\bin\Debug\net8.0\ConvertiraMayus.exe
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\bin\Debug\net8.0\ConvertiraMayus.deps.json
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\bin\Debug\net8.0\ConvertiraMayus.runtimeconfig.json
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\bin\Debug\net8.0\ConvertiraMayus.dll
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\bin\Debug\net8.0\ConvertiraMayus.pdb
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\obj\Debug\net8.0\ConvertiraMayus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\obj\Debug\net8.0\ConvertiraMayus.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\obj\Debug\net8.0\ConvertiraMayus.AssemblyInfo.cs
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\obj\Debug\net8.0\ConvertiraMayus.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\obj\Debug\net8.0\ConvertiraMayus.dll
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\obj\Debug\net8.0\refint\ConvertiraMayus.dll
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\obj\Debug\net8.0\ConvertiraMayus.pdb
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\obj\Debug\net8.0\ConvertiraMayus.genruntimeconfig.cache
+C:\Users\josew\source\repos\ConvertiraMayus\ConvertiraMayus\obj\Debug\net8.0\ref\ConvertiraMayus.dll

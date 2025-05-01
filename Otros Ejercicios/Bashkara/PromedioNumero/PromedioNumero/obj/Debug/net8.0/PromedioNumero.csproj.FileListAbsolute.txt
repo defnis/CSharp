@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\bin\Debug\net8.0\PromedioNumero.exe
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\bin\Debug\net8.0\PromedioNumero.deps.json
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\bin\Debug\net8.0\PromedioNumero.runtimeconfig.json
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\bin\Debug\net8.0\PromedioNumero.dll
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\bin\Debug\net8.0\PromedioNumero.pdb
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\obj\Debug\net8.0\PromedioNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\obj\Debug\net8.0\PromedioNumero.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\obj\Debug\net8.0\PromedioNumero.AssemblyInfo.cs
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\obj\Debug\net8.0\PromedioNumero.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\obj\Debug\net8.0\PromedioNumero.dll
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\obj\Debug\net8.0\refint\PromedioNumero.dll
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\obj\Debug\net8.0\PromedioNumero.pdb
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\obj\Debug\net8.0\PromedioNumero.genruntimeconfig.cache
+C:\Users\josew\source\repos\PromedioNumero\PromedioNumero\obj\Debug\net8.0\ref\PromedioNumero.dll

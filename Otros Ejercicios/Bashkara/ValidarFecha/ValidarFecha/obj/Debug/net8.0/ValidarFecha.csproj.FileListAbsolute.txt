@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\bin\Debug\net8.0\ValidarFecha.exe
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\bin\Debug\net8.0\ValidarFecha.deps.json
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\bin\Debug\net8.0\ValidarFecha.runtimeconfig.json
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\bin\Debug\net8.0\ValidarFecha.dll
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\bin\Debug\net8.0\ValidarFecha.pdb
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\obj\Debug\net8.0\ValidarFecha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\obj\Debug\net8.0\ValidarFecha.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\obj\Debug\net8.0\ValidarFecha.AssemblyInfo.cs
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\obj\Debug\net8.0\ValidarFecha.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\obj\Debug\net8.0\ValidarFecha.dll
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\obj\Debug\net8.0\refint\ValidarFecha.dll
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\obj\Debug\net8.0\ValidarFecha.pdb
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\obj\Debug\net8.0\ValidarFecha.genruntimeconfig.cache
+C:\Users\josew\source\repos\ValidarFecha\ValidarFecha\obj\Debug\net8.0\ref\ValidarFecha.dll

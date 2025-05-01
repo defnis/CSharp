@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\bin\Debug\net8.0\CantidadVocales.exe
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\bin\Debug\net8.0\CantidadVocales.deps.json
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\bin\Debug\net8.0\CantidadVocales.runtimeconfig.json
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\bin\Debug\net8.0\CantidadVocales.dll
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\bin\Debug\net8.0\CantidadVocales.pdb
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\obj\Debug\net8.0\CantidadVocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\obj\Debug\net8.0\CantidadVocales.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\obj\Debug\net8.0\CantidadVocales.AssemblyInfo.cs
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\obj\Debug\net8.0\CantidadVocales.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\obj\Debug\net8.0\CantidadVocales.dll
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\obj\Debug\net8.0\refint\CantidadVocales.dll
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\obj\Debug\net8.0\CantidadVocales.pdb
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\obj\Debug\net8.0\CantidadVocales.genruntimeconfig.cache
+C:\Users\josew\source\repos\CantidadVocales\CantidadVocales\obj\Debug\net8.0\ref\CantidadVocales.dll

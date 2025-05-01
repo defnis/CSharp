@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\bin\Debug\net8.0\EsCapicua.exe
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\bin\Debug\net8.0\EsCapicua.deps.json
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\bin\Debug\net8.0\EsCapicua.runtimeconfig.json
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\bin\Debug\net8.0\EsCapicua.dll
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\bin\Debug\net8.0\EsCapicua.pdb
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\obj\Debug\net8.0\EsCapicua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\obj\Debug\net8.0\EsCapicua.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\obj\Debug\net8.0\EsCapicua.AssemblyInfo.cs
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\obj\Debug\net8.0\EsCapicua.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\obj\Debug\net8.0\EsCapicua.dll
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\obj\Debug\net8.0\refint\EsCapicua.dll
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\obj\Debug\net8.0\EsCapicua.pdb
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\obj\Debug\net8.0\EsCapicua.genruntimeconfig.cache
+C:\Users\josew\source\repos\EsCapicua\EsCapicua\obj\Debug\net8.0\ref\EsCapicua.dll

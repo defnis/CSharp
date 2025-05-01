@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Practico5 Ej12/1.0.0": {
+        "runtime": {
+          "Practico5 Ej12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practico5 Ej12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

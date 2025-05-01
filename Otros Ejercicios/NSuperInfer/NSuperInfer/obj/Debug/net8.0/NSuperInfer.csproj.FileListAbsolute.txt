@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\bin\Debug\net8.0\NSuperInfer.exe
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\bin\Debug\net8.0\NSuperInfer.deps.json
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\bin\Debug\net8.0\NSuperInfer.runtimeconfig.json
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\bin\Debug\net8.0\NSuperInfer.dll
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\bin\Debug\net8.0\NSuperInfer.pdb
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\obj\Debug\net8.0\NSuperInfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\obj\Debug\net8.0\NSuperInfer.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\obj\Debug\net8.0\NSuperInfer.AssemblyInfo.cs
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\obj\Debug\net8.0\NSuperInfer.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\obj\Debug\net8.0\NSuperInfer.dll
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\obj\Debug\net8.0\refint\NSuperInfer.dll
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\obj\Debug\net8.0\NSuperInfer.pdb
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\obj\Debug\net8.0\NSuperInfer.genruntimeconfig.cache
+C:\Users\josew\source\repos\NSuperInfer\NSuperInfer\obj\Debug\net8.0\ref\NSuperInfer.dll

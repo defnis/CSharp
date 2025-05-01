@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\bin\Debug\net8.0\ExcluirCharEspecial.exe
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\bin\Debug\net8.0\ExcluirCharEspecial.deps.json
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\bin\Debug\net8.0\ExcluirCharEspecial.runtimeconfig.json
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\bin\Debug\net8.0\ExcluirCharEspecial.dll
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\bin\Debug\net8.0\ExcluirCharEspecial.pdb
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\obj\Debug\net8.0\ExcluirCharEspecial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\obj\Debug\net8.0\ExcluirCharEspecial.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\obj\Debug\net8.0\ExcluirCharEspecial.AssemblyInfo.cs
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\obj\Debug\net8.0\ExcluirCharEspecial.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\obj\Debug\net8.0\ExcluirCharEspecial.dll
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\obj\Debug\net8.0\refint\ExcluirCharEspecial.dll
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\obj\Debug\net8.0\ExcluirCharEspecial.pdb
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\obj\Debug\net8.0\ExcluirCharEspecial.genruntimeconfig.cache
+C:\Users\josew\source\repos\ExcluirCharEspecial\ExcluirCharEspecial\obj\Debug\net8.0\ref\ExcluirCharEspecial.dll

@@ -1,0 +1,14 @@
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\bin\Debug\net8.0\CostoVenta.exe
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\bin\Debug\net8.0\CostoVenta.deps.json
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\bin\Debug\net8.0\CostoVenta.runtimeconfig.json
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\bin\Debug\net8.0\CostoVenta.dll
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\bin\Debug\net8.0\CostoVenta.pdb
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\obj\Debug\net8.0\CostoVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\obj\Debug\net8.0\CostoVenta.AssemblyInfoInputs.cache
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\obj\Debug\net8.0\CostoVenta.AssemblyInfo.cs
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\obj\Debug\net8.0\CostoVenta.csproj.CoreCompileInputs.cache
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\obj\Debug\net8.0\CostoVenta.dll
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\obj\Debug\net8.0\refint\CostoVenta.dll
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\obj\Debug\net8.0\CostoVenta.pdb
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\obj\Debug\net8.0\CostoVenta.genruntimeconfig.cache
+C:\Users\josew\source\repos\CostoVenta\CostoVenta\obj\Debug\net8.0\ref\CostoVenta.dll
